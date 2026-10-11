@@ -9,7 +9,8 @@
       "filetree": "filetree/c890036886ca120df7e5e65dbf6d6acf42201a69.nq.gz",
       "ast": [
         "aggregate/ast/c890036886ca120df7e5e65dbf6d6acf42201a69/chunk-001.nq.gz"
-      ]
+      ],
+      "repolex": "aggregate/repolex/c890036886ca120df7e5e65dbf6d6acf42201a69/chunk-001.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
