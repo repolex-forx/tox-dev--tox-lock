@@ -1,0 +1,15 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "tox-lock",
+  "versions": [
+    {
+      "commit": "c890036886ca120df7e5e65dbf6d6acf42201a69",
+      "parsed_at": "2026-10-11T22:16:05.382047+00:00",
+      "filetree": "filetree/c890036886ca120df7e5e65dbf6d6acf42201a69.nq.gz"
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
