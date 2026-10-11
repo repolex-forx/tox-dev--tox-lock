@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "tox-lock",
+  "versions": [
+    {
+      "commit": "c890036886ca120df7e5e65dbf6d6acf42201a69",
+      "tag": "",
+      "parsed_at": "2026-10-11T22:17:34.627594+00:00"
+    }
+  ]
+}
